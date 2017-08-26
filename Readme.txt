@@ -1,11 +1,11 @@
 ***************
 * Introduction*
 ***************
-1.The folder contains six algorithms£ºBatched Pattern-Aware algorithm£¬Pattern-Aware algorithm£¬NoCache algorithm£¬LFU algorithm£¬LRU algorithm and LRFU algorithm.
-2.There are two algorithms in each LFU¡¢LRU and LRFU folder,i.e.,_ALL and _SUB.
+1.The folder contains six algorithmsï¼šBatched Pattern-Aware algorithmï¼ŒPattern-Aware algorithmï¼ŒNoCache algorithmï¼ŒLFU algorithmï¼ŒLRU algorithm and LRFU algorithm.
+2.There are two algorithms in each LFUã€LRU and LRFU folder,i.e.,_ALL and _SUB.
 
 ***********************
 * Runtime Environment *
 ***********************
-Required libraries£ºcfitsio¡¢pthread¡¢redis¡¢mysql¡¢socket
-corresponding libraries£ºcfitsio¡¢pthread¡¢hiredis¡¢mysqlclient
+Required librariesï¼šcfitsio,pthread,redis,mysql,socket
+corresponding librariesï¼šcfitsio,pthread,hiredis,mysqlclient
